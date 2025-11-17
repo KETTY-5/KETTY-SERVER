@@ -1,0 +1,14 @@
+{
+  "name": "ketty5-server",
+  "version": "1.0.0",
+  "description": "Ketty-5 WebSocket Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ws": "^8.13.0",
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  }
+}
